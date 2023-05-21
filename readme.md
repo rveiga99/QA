@@ -1,4 +1,4 @@
-# Repositório com os testes automatizados criados em alguns cursos
+# Repositório com os testes automatizados
 
 ### Lista de testes criados:
 
